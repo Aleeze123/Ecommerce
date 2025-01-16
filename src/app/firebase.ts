@@ -5,12 +5,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-   apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
-    authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
-    projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
-    storageBucket: process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET,
-    messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,
-    appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
+  apiKey: "AIzaSyDQsuekb8TfWnJAXYhdNqTwKw7moflWg-o",
+  authDomain: "aiecommerce-7b212.firebaseapp.com",
+  projectId: "aiecommerce-7b212",
+  storageBucket: "aiecommerce-7b212.firebasestorage.app",
+  messagingSenderId: "597530088184",
+  appId: "1:597530088184:web:95db8c6807b2585e7da10d"
 };
 
 // Initialize Firebase
